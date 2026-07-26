@@ -1,0 +1,7 @@
+city,lat,lon,temperature_c,feels_like_c,humidity_pct,weather_condition,wind_speed_ms,timestamp_unix,event_date,data_type
+Mumbai,19.076,72.8777,28.6,33.65,80,Clouds,6.78,1785070652,2026-07-26 12:57:32,weather
+Delhi,28.7041,77.1025,35.72,40.01,44,Clouds,2.69,1785070894,2026-07-26 13:01:34,weather
+New York,40.7128,-74.006,22.56,22.44,60,Clear,2.68,1785070120,2026-07-26 12:48:40,weather
+Tokyo,35.6762,139.6503,26.12,26.12,87,Clouds,3.63,1785070896,2026-07-26 13:01:36,weather
+London,51.5074,-0.1278,25.42,25.24,47,Clouds,2.24,1785070652,2026-07-26 12:57:32,weather
+Sydney,-33.8688,151.2093,10.33,9.66,86,Clouds,2.14,1785070899,2026-07-26 13:01:39,weather

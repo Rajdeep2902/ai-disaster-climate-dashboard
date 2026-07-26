@@ -1,0 +1,7 @@
+city,lat,lon,temperature_c,feels_like_c,humidity_pct,weather_condition,wind_speed_ms,timestamp_unix
+Mumbai,19.076,72.8777,28.57,33.57,80,Rain,6.78,1785072456
+Delhi,28.7041,77.1025,35.72,40.01,44,Clouds,2.69,1785072364
+New York,40.7128,-74.006,23.6,23.43,54,Clear,2.24,1785072643
+Tokyo,35.6762,139.6503,25.65,26.49,85,Clouds,3.88,1785072644
+London,51.5074,-0.1278,25.72,25.55,46,Clouds,4.47,1785072362
+Sydney,-33.8688,151.2093,9.87,8.22,85,Clouds,3.25,1785072647

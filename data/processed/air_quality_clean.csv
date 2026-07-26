@@ -1,0 +1,21 @@
+city,station_name,parameter,unit,lat,lon,data_type
+Mumbai,Navi Mumbai Municipal Corporation Airoli,co,µg/m³,19.076,72.8777,air_quality
+Mumbai,Navi Mumbai Municipal Corporation Airoli,pm10,µg/m³,19.076,72.8777,air_quality
+Mumbai,Navi Mumbai Municipal Corporation Airoli,pm25,µg/m³,19.076,72.8777,air_quality
+Mumbai,Navi Mumbai Municipal Corporation Airoli,so2,µg/m³,19.076,72.8777,air_quality
+Delhi,"Delhi Technological University, Delhi - CPCB",no2,µg/m³,28.7041,77.1025,air_quality
+Delhi,"Delhi Technological University, Delhi - CPCB",o3,µg/m³,28.7041,77.1025,air_quality
+Delhi,"Delhi Technological University, Delhi - CPCB",pm25,µg/m³,28.7041,77.1025,air_quality
+New York,CCNY,o3,ppm,40.7128,-74.006,air_quality
+New York,CCNY,pm25,µg/m³,40.7128,-74.006,air_quality
+Tokyo,三鷹市下連雀７丁目１５番４号,no,ppm,35.6762,139.6503,air_quality
+Tokyo,三鷹市下連雀７丁目１５番４号,no2,ppm,35.6762,139.6503,air_quality
+Tokyo,三鷹市下連雀７丁目１５番４号,nox,ppm,35.6762,139.6503,air_quality
+Tokyo,三鷹市下連雀７丁目１５番４号,pm25,µg/m³,35.6762,139.6503,air_quality
+London,Haringey Roadside - UKA00260,no2,µg/m³,51.5074,-0.1278,air_quality
+London,Haringey Roadside - UKA00260,pm25,µg/m³,51.5074,-0.1278,air_quality
+Sydney,Earlwood,no2,ppm,-33.8688,151.2093,air_quality
+Sydney,Earlwood,o3,ppm,-33.8688,151.2093,air_quality
+Sydney,Earlwood,pm10,µg/m³,-33.8688,151.2093,air_quality
+Sydney,Earlwood,pm25,µg/m³,-33.8688,151.2093,air_quality
+Sydney,Earlwood,so2,ppm,-33.8688,151.2093,air_quality
